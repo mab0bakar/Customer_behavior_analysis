@@ -1,4 +1,4 @@
-CleanedCustomer Behavior Analytics: End-to-End BI Pipeline
+CleanedCustomer Behavior Analytics:
 This project demonstrates a complete professional data lifecycle, transforming fragmented consumer shopping data into a centralized, interactive Business Intelligence solution. By integrating Python for ETL, SQL Server for relational storage, and Power BI for advanced modeling, I have built a system that identifies high-value customer segments and optimizes retail decision-making.
 
 The Technical Architecture
